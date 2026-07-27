@@ -30,7 +30,7 @@
 I will give descriptions for these items, but not the code.
 
 * Sober Reverse Engineering
-  * Toolset and documentation for injecting shared libraries into the roblox compatiability layer "Sober" (See: https://sober.vinegarhq.org/). I have chosen to not release this out of respect for Sober's development team, and the potential for this to be used to create exploits, in violation of Roblox's TOS, and something that could be a death sentence for Sober. If this did happen, this would leave millions of Sober users with no practical way to play Roblox on Linux.
+  * Toolset and documentation for injecting shared libraries into the roblox compatiability layer "Sober" (See: https://sober.vinegarhq.org/).
 # Professional Work
 * RathHacks (Non-Profit)
 * BOLD
