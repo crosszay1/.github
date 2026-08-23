@@ -1,7 +1,7 @@
 # Projects (AI related)
 * https://github.com/crosszay1/simple-LLM
   * A very simple large language model! This is my first LLM. (This project is still in the works. More detailed description coming soon)
-* https://github.com/crosszay1/Biology-Honors-Project
+* https://github.com/crosszay1/Evolution-Simulation
   * My first machine learning project, and one I hold close to my heart. This one involves marbles that live on a 64x64 grid. Each of them is controlled by a neural network that learns how to find food to avoid starvation. The good ones pass on their weights, and the bad ones die. (Just like DNA!)
 * https://github.com/crosszay1/AIPoliticsSimulation
   * A simulation involving AI agents that must work together to elect leaders, execute criminals, and build an ideal society as modelled by Aristotles book "Politics"
